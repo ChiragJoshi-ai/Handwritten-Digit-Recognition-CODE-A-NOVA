@@ -19,6 +19,15 @@ The model is trained to recognize handwritten digits from <b>0 to 9</b> using im
 
 ---
 
+## 📚 Project Context
+
+This project was developed as part of an <b>internship assignment at Code-A-Nova</b>.  
+The objective was to preprocess text data, extract meaningful features, and train a supervised learning model for sentiment classification.
+
+All implementation, experimentation, and documentation were done by me as part of this assignment.
+
+---
+
 ## 🛠️ Technologies Used
 
 <ul>
